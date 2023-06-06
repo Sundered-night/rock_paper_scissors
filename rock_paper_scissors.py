@@ -28,7 +28,7 @@ while count<3:
         else:
             print("Scissor beats paper")
     else:
-        print("Lekhna pani aaudena bhai")
+        print("Naya breanch ho yo")
         
     player = False
     comp = game[randint(0,2)]
